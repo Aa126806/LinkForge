@@ -1,0 +1,39 @@
+# Image files
+.jpg
+.jpeg
+.png
+.gif
+
+# Document files
+.pdf
+.doc
+.docx
+.txt
+.csv
+.xls
+.xlsx
+.ppt
+.pptx
+
+# Archive files
+.zip
+.rar
+.7z
+.tar
+.gz
+
+# Executable files
+.exe
+.msi
+.dmg
+.pkg
+
+# Media files
+.mp4
+.avi
+.mov
+.mp3
+.wav
+
+#Other
+.css
