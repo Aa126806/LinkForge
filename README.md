@@ -1,6 +1,8 @@
 # LinkForge - Web Crawler
 
-A Python web crawler that discovers and maps all links on a website.
+Intelligent website crawler for comprehensive link discovery and site mapping
+Powerful Python-based web crawler that systematically explores websites, 
+extracts all accessible links, and generates detailed site maps.
 
 ## What it does
 
